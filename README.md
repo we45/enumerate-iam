@@ -6,6 +6,8 @@
 
 ### DockerHub: https://hub.docker.com/r/we45/enumerate-iam
 
+---
+
 ### Usage:
 
 ##### Running the `we45/enumerate-iam` docker image:
